@@ -1,4 +1,4 @@
-# My Vivaldi Themse
+# My Vivaldi Themes
 
 ![Build Status](https://img.shields.io/github/license/pistolwhip-justin/pistolwhip-justin.svg)
 
@@ -18,9 +18,6 @@ This repository contains some stuff.
 ```
 
 ## Usage
-
-```
-```
 
 ## Features
 

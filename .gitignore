@@ -27,7 +27,7 @@ docs/private/
 ._*
 .Spotlight-V100
 .trash
-ehthumbs.db
+thumbs.db
 Thumbs.db
 
 # Ignore Smart Environment folder
